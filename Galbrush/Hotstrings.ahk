@@ -35,5 +35,3 @@ strHome := "Home"
 }
 
 ; Signature replacements
-
-;Git push test line, an additional change
